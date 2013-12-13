@@ -1,0 +1,5 @@
+# Remove deleted files from history
+$ git ls-files --deleted | xargs git rm
+
+# Git command to display HEAD commit id
+$ git rev-parse HEAD
