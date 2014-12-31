@@ -5,3 +5,5 @@ $ git ls-files --deleted | xargs git rm
 $ git rev-parse HEAD
 
 Testando....
+
+Testando ssh no atom
