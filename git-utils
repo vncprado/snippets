@@ -3,7 +3,3 @@ $ git ls-files --deleted | xargs git rm
 
 # Git command to display HEAD commit id
 $ git rev-parse HEAD
-
-Testando....
-
-Testando ssh no atom
